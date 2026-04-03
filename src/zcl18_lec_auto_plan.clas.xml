@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL18_LEC_AUTO_PLAN</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>SY Univ Logistics</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>ZZ_GET_BI_RTN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get BI Document</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZZ_GET_DO_RTN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get DO Document</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZZ_GET_GI_RTN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get GI Document</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZZ_GET_SO_RTN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get SO Document</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_BI_RTN</CMPNAME>
+     <SCONAME>ES_RETURN</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_BI_RTN</CMPNAME>
+     <SCONAME>IS_DO_H</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SD Document: Delivery Header Data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_BI_RTN</CMPNAME>
+     <SCONAME>IT_DO_I</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SD document: Delivery: Item data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_DO_RTN</CMPNAME>
+     <SCONAME>ES_RETURN</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_DO_RTN</CMPNAME>
+     <SCONAME>IS_SO_H</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales Document: Header Data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_DO_RTN</CMPNAME>
+     <SCONAME>IT_SO_I</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sales Document: Item Data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_GI_RTN</CMPNAME>
+     <SCONAME>CS_DO_H</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SD Document: Delivery Header Data</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_GI_RTN</CMPNAME>
+     <SCONAME>ES_RETURN</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_SO_RTN</CMPNAME>
+     <SCONAME>ES_RETURN</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return Parameter</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_SO_RTN</CMPNAME>
+     <SCONAME>IS_PO_H</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Purchasing Document Header</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ZZ_GET_SO_RTN</CMPNAME>
+     <SCONAME>IT_PO_I</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Purchasing Document Item</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSYMS18</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>ZSYMS18</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;1 건 조회되었습니다.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>저장에 성공하였습니다.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>저장에 실패하였습니다.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>No data to process.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Saved successfully.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>No data saved.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>COPO MESSAGE CLASS 사용해서 떴다.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>&amp;1 Message Class 사용</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSYMS18</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>총 &amp;1건에서 중복제거하여 &amp;2 건 조회되었습니다.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
