@@ -74,10 +74,6 @@ SAP SD Module Process Automation: One-click generation of SO, DO, GI, and Billin
 
 <br><br>
 
-제공해주신 `00`, `10`, `20`, `30`번 프로그램을 포함한 전체 코드를 분석하여, **"주요 기능(Key Features)"**과 **"주요 프로그램 구성(Repository Objects)"** 부분을 더욱 풍성하고 정확하게 업데이트해 드립니다.
-
-규태 님의 프로젝트는 **모듈화된 개별 프로세스 프로그램(10~50)**과 이를 하나로 묶은 **통합 콕핏(60)**, 그리고 **표준 템플릿(00)** 및 **마스터 관리(70)**까지 갖춘 매우 체계적인 "ERP 솔루션 패키지" 형태를 띠고 있음을 확인했습니다.
-
 ---
 
 
@@ -102,6 +98,7 @@ SAP SD Module Process Automation: One-click generation of SO, DO, GI, and Billin
 <br><br>
 
 ## 🖼️ 주요 기능 화면 (Screenshots)
+<a href="./docs/구현사진/" target="_blank">구현 사진 상세</a>
 
 <img src="./docs/구현사진/60번 메인.jpg" width="700px" alt="Cockpit 화면"/>
 <img src="./docs/구현사진/60번 GI 이미 있음.jpg" width="700px" alt="Auto Process 팝업"/> 
