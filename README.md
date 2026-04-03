@@ -3,8 +3,7 @@
 SAP SD Module Process Automation: One-click generation of SO, DO, GI, and Billing documents.
 
 <div style="text-align: center;">
-    <!-- GitHub 업로드 시 실제 ALV 화면 캡처 이미지 경로로 수정하세요 -->
-    <img alt="O2C_Cockpit_Main" src="./docs/구현사진/O2C_메인화면.JPG" width="800px"/>
+    <img alt="O2C_Cockpit_Main" src="./docs/구현사진/60번 메인.jpg" width="800px"/>
 </div>
 
 ## 🚀 프로젝트 소개
@@ -103,9 +102,10 @@ SAP SD Module Process Automation: One-click generation of SO, DO, GI, and Billin
 <br><br>
 
 ## 🖼️ 주요 기능 화면 (Screenshots)
-*(GitHub 업로드 시 `docs/구현사진/` 폴더에 이미지를 추가하여 링크를 연결해주세요)*
 
-| 통합 비즈니스 Cockpit (Master-Detail) | Auto-Process 팝업 및 상태 시각화 | CBO 권한 제어 및 마스터 관리 |
-| :---: | :---: | :---: |
-| <img src="./docs/구현사진/Cockpit_Main.JPG" width="300px" alt="Cockpit 화면"/> | <img src="./docs/구현사진/Auto_Popup.JPG" width="300px" alt="Auto Process 팝업"/> | <img src="./docs/구현사진/Authority_Master.JPG" width="300px" alt="권한 마스터 관리"/> |
+<img src="./docs/구현사진/60번 메인.jpg" width="300px" alt="Cockpit 화면"/>
+<img src="./docs/구현사진/60번 GI 이미 있음.jpg" width="300px" alt="Auto Process 팝업"/> 
+<img src="./docs/구현사진/40번.jpg" width="300px" alt="Auto Process 팝업"/> 
+<img src="./docs/구현사진/70번 권한 뺏기.jpg" width="300px" alt="권한 마스터 관리"/>
+
 
