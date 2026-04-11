@@ -98,7 +98,7 @@ SAP SD Module Process Automation: One-click generation of SO, DO, GI, and Billin
 <br><br>
 
 ## 🖼️ 주요 기능 화면 (Screenshots)
-<a href="./docs/구현사진/" target="_blank">구현 사진 상세</a>
+## <a href="./docs/구현사진/" target="_blank">구현 사진 상세(Link)</a>
 
 <img src="./docs/구현사진/60번 메인.jpg" width="700px" alt="Cockpit 화면"/>
 <img src="./docs/구현사진/60번 GI 이미 있음.jpg" width="700px" alt="Auto Process 팝업"/> 
